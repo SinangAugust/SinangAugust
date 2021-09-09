@@ -1,12 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="august.svg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm August</h1>
-<h3 align="center">I'm a passionate College student from PUP that aspires to be a Game Developer</h3>
+<h3 align="center">Future Game Developer</h3>
 
 
 ## 🙆‍♂️ About Me
 
-- 🔭 I’m currently working on a **[2D Dungeon Course](https://covid-19-tracker-e4bda.web.app/)**
+- 👨‍🎓 I'm a 4th year computer engineering student at Polytechnic University of the Philippines.
+
+- 🔭 I’m currently working on a **2D Dungeon Course**
 
 - 🌱 I’m currently learning **Game Development**
 
