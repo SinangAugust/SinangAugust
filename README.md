@@ -39,6 +39,10 @@
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
   </a>
+  <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
+    <img src="https://img.shields.io/badge/cs-A8B9CC.svg?style=for-the-badge&logo=csharp&logoColor=white"
+      alt="cs"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
