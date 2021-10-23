@@ -7,7 +7,7 @@
 
 ### 🙆‍♂️ &nbsp;About Me 
 
-- 👨‍🎓 I'm a 4th year computer engineering student at Polytechnic University of the Philippines.
+- 👨‍🎓 I'm a senior computer engineering student at Polytechnic University of the Philippines.
 
 - 🔭 I’m currently working on a **2D Dungeon Course**
 
