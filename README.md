@@ -9,9 +9,9 @@
 
 - 👨‍🎓 I'm a senior computer engineering student at Polytechnic University of the Philippines.
 
-- 🔭 I’m currently working on a **2D Dungeon Course**
+- 🔭 I’m currently working on a simple **E-Commerce Website**
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
